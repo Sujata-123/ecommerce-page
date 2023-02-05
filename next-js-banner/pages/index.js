@@ -64,7 +64,7 @@ export default function Home({products}) {
       />
       </div>
       <div className='absolute lg:bottom-20 md:bottom-20 sm:bottom-20 top-28'>
-      <h1 className='text-center text-white backdrop-blur-lg lg:text-5xl sm:text-base md:text-base'>GET START <br/>YOUR FAVRIOT SHOPING</h1>
+      <h1 className='text-center text-white  backdrop-blur-lg lg:text-5xl sm:text-base md:text-base'>GET START <br/>YOUR FAVRIOT SHOPING</h1>
       <div className='lg:pt-10 pt-2 flex justify-center'>
       <button className='bg-black text-white p-3 rounded-lg w-1/3'>BUY NOW</button>
       </div>
